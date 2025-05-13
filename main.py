@@ -1566,7 +1566,7 @@ def standalone_verify():
       <div id="doctorSearch" class="search-box" style="display: none;">
           <div class="specialty-grid">
             {% for doc in doctors %}
-              <button class="specialty-button doctor-button" onclick="showDoctorResults('{{ doc }}')">Dr. {{ doc }}</button>
+              <button class="specialty-button doctor-button" onclick="showDoctorResults('{{ doc }}')">{{ doc }}</button>
             {% endfor %}
           </div>
       </div>
