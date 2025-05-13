@@ -1,0 +1,9 @@
+
+Flask==3.1.0
+flask-sqlalchemy
+gunicorn
+python-docx
+python-docx
+docx
+flask
+flask-sqlalchemy
