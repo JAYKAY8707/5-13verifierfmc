@@ -5,7 +5,29 @@
       "specialty": "Primary Care, Nephrology (Kidney)",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Elder Plan",
+        "Emblem GHI HMO/PPO",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199,
+        "VNS Choice",
+        "Centers Health Plan",
+        "Village Care Max"
       ]
     },
     {
@@ -13,7 +35,29 @@
       "specialty": "Primary Care",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Elder Plan",
+        "Emblem GHI HMO/PPO",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        1199,
+        "VNS Choice",
+        "Centers Health Plan",
+        "Village Care Max"
       ]
     },
     {
@@ -21,7 +65,29 @@
       "specialty": "Primary Care",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Elder Plan",
+        "Emblem GHI HMO/PPO",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199,
+        "VNS Choice",
+        "Centers Health Plan",
+        "Village Care Max"
       ]
     },
     {
@@ -29,7 +95,29 @@
       "specialty": "Primary Care",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Elder Plan",
+        "Emblem GHI HMO/PPO",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        1199,
+        "VNS Choice",
+        "Centers Health Plan",
+        "Village Care Max"
       ]
     },
     {
@@ -37,7 +125,33 @@
       "specialty": "Primary Care, Family Practice",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Elder Plan",
+        "Emblem GHI HMO/PPO",
+        "Emblem HIP",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199,
+        "Magnacare & Healthnet",
+        "VNS Choice",
+        "Centers Health Plan",
+        "Village Care Max"
       ]
     },
     {
@@ -45,7 +159,27 @@
       "specialty": "Pediatrics",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Emblem GHI HMO/PPO",
+        "Emblem HIP",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199
       ]
     },
     {
@@ -53,7 +187,27 @@
       "specialty": "Podiatry (feet)",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Emblem GHI HMO/PPO",
+        "Emblem HIP",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199
       ]
     },
     {
@@ -61,7 +215,25 @@
       "specialty": "Ophthalmology (Eye)",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Emblem GHI HMO/PPO",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        1199
       ]
     },
     {
@@ -69,7 +241,25 @@
       "specialty": "Cardiology (Heart)",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Emblem GHI HMO/PPO",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        1199
       ]
     },
     {
@@ -77,7 +267,26 @@
       "specialty": "Urology",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Emblem GHI HMO/PPO",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        1199
       ]
     },
     {
@@ -85,7 +294,21 @@
       "specialty": "Vascular (Veins)",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "Wellcare",
+        1199,
+        "Magnacare & Healthnet"
       ]
     },
     {
@@ -93,7 +316,31 @@
       "specialty": "Dermatology (Skin)",
       "insurances": [
         "Fidelis",
-        "Metro Plus"
+        "Metroplus",
+        "Aetna",
+        "Affinity",
+        "Anthem BC/BS Medicare",
+        "BC/BS Medicaid-JLJ plans",
+        "BC/BS-Horizon",
+        "Cigna",
+        "Emblem GHI HMO/PPO",
+        "Emblem HIP",
+        "Emblem Health Care Partners",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "Oxford Freedom",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199,
+        "Magnacare & Healthnet",
+        "VNS Choice"
       ]
     },
     {
@@ -101,7 +348,23 @@
       "specialty": "Dermatology (Skin)",
       "insurances": [
         "Fidelis",
-        "Metro Plus"
+        "Metroplus",
+        "Aetna",
+        "Affinity",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Elder Plan",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "Oxford Freedom",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199
       ]
     },
     {
@@ -109,7 +372,26 @@
       "specialty": "Dermatology (Skin)",
       "insurances": [
         "Fidelis",
-        "Metro Plus"
+        "Metroplus",
+        "Aetna",
+        "Affinity",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Elder Plan",
+        "Emblem HIP",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "Oxford Freedom",
+        "United Healthcare",
+        "UHC-AARP",
+        "UHC-Choice Plus_Commercial",
+        "UHC-Medicare",
+        "UHC-Empire Plan",
+        "Wellcare",
+        1199,
+        "Magnacare & Healthnet",
+        "Centers Health Plan"
       ]
     },
     {
@@ -117,7 +399,19 @@
       "specialty": "Dermatology (Skin)",
       "insurances": [
         "Fidelis",
-        "Healthfirst"
+        "Healthfirst",
+        "Affinity",
+        "Empire BC/BS",
+        "BC/BS Medicaid-JLJ plans",
+        "Cigna",
+        "Humana",
+        "Medicaid",
+        "Medicare",
+        "Molina",
+        "MultiPlan",
+        "United Healthcare",
+        "UHC-Empire Plan",
+        1199
       ]
     },
     {
